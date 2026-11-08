@@ -34,5 +34,5 @@ This ToDoList application is a task management tool built with C++. It allows us
 
 Clone the repository:
 ```bash
-git clone https://github.com/Styner2023/ToDoList.git
+git clone https://github.com/StynerStiner/ToDoList.git
 cd ToDoList
